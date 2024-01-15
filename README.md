@@ -45,7 +45,7 @@ The `turnIntoInvertedCorner` function accepts a container element and modifies i
 ## Mathematical Explanation of Point Calculations
 By understanding the trigonometry behind these calculations, one can appreciate the mathematical elegance that enables such transformations in web design.
 
-![Explanation](mathDrawing.png)
+![Explanation](MathDrawing.jpeg)
 
 The function `turnIntoInvertedCorner` employs trigonometry to calculate the coordinates of each point on the transformed shape. Below is a detailed mathematical explanation of the process:
 
