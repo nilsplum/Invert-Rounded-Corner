@@ -34,6 +34,11 @@ CSS:
     width = 100px;
 }
 ```
+###Example Usage:
+![Screenshot 2024-01-15 at 00 51 09](https://github.com/nilsplum/Invert-Rounded-Corner/assets/128645172/111cfc61-caa1-4b0b-bb13-da19412730f6)
+
+
+
 
 ## Functionality
 The `turnIntoInvertedCorner` function accepts a container element and modifies its shape into an inverted corner. Here's what each part of the function does:
