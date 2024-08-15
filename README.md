@@ -1,11 +1,10 @@
 # Inverted Corner Shape Transformation
 
 ## Overview
-Finally! I created a method to create round, inverted corners in pure js and therefore css!
-The provided JavaScript function showcases an elegant application of mathematical principles to achieve the impossible: A single div element which has an inverted/reverse corner.
-The method I am presenting to you here is **not just a workaround** like creating a second div and therefore **enables the user to use it in front of a multi colored background like an image!**
-The technique I created is unique and never seen before. 
-The function transforms a div container into an inverted corner shape by creating a polygon that simulates the shape of an inverted circle with a specified number of points. This transformation is applied to a container which is passed as an argument (as shown in the section: "Example Code").
+I am presenting a method to create round, inverted corners using pure JS/CSS.
+The provided JavaScript function elegantly applies mathematical principles to achieve what might seem impossible: creating a single div with an inverted or reverse corner. This method is more than just a workaround—it eliminates the need for an additional div, allowing the user to seamlessly integrate it with a multicolored background (such as an image).
+The function transforms a div container into an inverted corner shape by generating a polygon that simulates the shape of an inverted circle with a specified number of points. This transformation is applied to the div passed as an argument, as demonstrated in the “Example Code” section.
+
 
 
 ## Usage Instructions
